@@ -1,1 +1,1 @@
-# SudyApp
+# StudyApp
